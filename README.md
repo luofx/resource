@@ -1,0 +1,2 @@
+# resource
+Belong to luofux
